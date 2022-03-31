@@ -15,7 +15,7 @@
   "dependencies": {
     "@discordjs/voice": "^0.5.5",
     "@haileybot/captcha-generator": "^1.7.0",
-    "axios": "^0.21.1",
+    "axios": "^0.26.0",
     "canvacord": "^5.2.3",
     "chalk": "^4.1.1",
     "currency-converter-lt": "^1.1.4",
