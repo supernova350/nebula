@@ -19,7 +19,7 @@
     "canvacord": "^5.2.3",
     "chalk": "^5.0.0",
     "currency-converter-lt": "^1.1.4",
-    "discord.js": "^13.0.0-dev.2675b08.1627603447",
+    "discord.js": "^14.0.0",
     "humanize-duration": "^3.27.0",
     "images-scraper": "^6.3.0",
     "libsodium-wrappers": "^0.7.9",
